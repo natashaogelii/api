@@ -4,7 +4,6 @@ num  = int(input("Enter a number "))
 
 print(f"The name is {name} and the number is {num}")
 
-
 # type cast
 print("The name is " +name+ " and the number is " +str(num))
 
